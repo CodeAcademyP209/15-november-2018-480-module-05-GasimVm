@@ -1,0 +1,22 @@
+#ana{
+	margin-top: 100px;
+	position: relative;
+	width: 600px;
+	height: 500px;
+	overflow: hidden;
+	
+}
+#but1{
+	position: absolute;
+	top: 400px;
+	left: 0px;
+}
+#but2{
+	position: absolute;
+	top: 400px;
+	left: 50px;
+}
+.mySlides{
+	height: 75%;
+	width:100%;
+}
